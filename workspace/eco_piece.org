@@ -1,0 +1,13 @@
+* Instrumentation
+** Flute with glissando headjoint
+** Bb Clarinet / Bass Clarinet
+** Alto / Baritone Saxophone
+** Percussion I
+** Percussion II
+** Violin (D string tuned to the 11th partial of A0)
+** Viola (G string tuned to 7th partial of A0)
+** Cello (C string tuned to 5th partial of A0)
+
+* Clicktracks
+** Conductor, clarinet, sax, perc I, perc II
+
