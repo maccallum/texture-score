@@ -1,0 +1,47 @@
+Cello: Bar 30: D3 should be C3
+
+Flute: Bar 46 last beat dotted eighth triplet shouldn't be dotted
+
+Flute: Bar 45 take out ord.
+Flute: Bar 129 Dashed tie with tremolo
+Flute: redo glissando headjoint notation
+Flute: Bar 160 make long slur into the same as strings
+
+Flute + strings: make sure dims and crescs at end are in all parts
+
+Cl: Bar 153: tempo change should be in bar 152
+Sax: Bar 41: Dynamics
+Sax: Bar 96: dynamics and articulation
+
+Sax and Cl: 96 and the middle of 96 are in the wrong place
+Sax: Bar 111 FF sub.
+Sax: Bar 166: tempo should be 84.9 not 89.9
+Sax: Bar 202: missing hairpins
+Sax: Bar 284: starts on last beat, not 3rd
+
+Perc: remove dotted ties
+Perc1: bar 82: f should be at the beginning of the third beat
+perc1: bar 113: reset to perc staff after crotale
+
+perc2: bar 38: l.v.
+perc2: bar 163: second half of last beat should be dotted 1/16, 1/16
+perc2: bar 198: second beat beams
+perc2: bar 216: third beat should be on the second eighth of the triplet
+perc2: bar 232: third beat: accent should be on second note of quintuplet
+perc2: bar 232: ppp should be on the third beat of bar 231
+
+perc2: bar 94: soft mallets
+perc2: bar 109: ped through third 1/8th note of 110
+
+Cello: bar 236: clefs
+
+perc2: bar 232: ppp should be in the middle of bar 231
+sax: bar 250: mf arrival should be one the downbeat
+perc2: bar 242: mf arrival should be on the second eighth note
+
+cl: bar 15: no accent on first 1/16th note
+
+perc1: bar 12: e-nat should be eb
+perc1: bar 82: last note should be a 1/16th with a deadstroke
+
+perc2: bar 91: last note should have an accent
